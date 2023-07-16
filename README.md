@@ -2,7 +2,7 @@
 
 # Web Scraping
 
-Golang is a vast language and have a lot to offer. Scraping is also one of those
+Golang is a vast language and have a much to offer. Scraping is also one of those
 Scraped **quotes.toscrape.com** using Golang's Colly 
 
 # Run
